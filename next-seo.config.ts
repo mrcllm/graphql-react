@@ -2,7 +2,7 @@ export default {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https:/my-trips.willianjusten.com.br',
+    url: 'https://www.mrcll.dev/',
     site_name: 'My Trips'
   },
   twitter: {

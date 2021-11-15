@@ -20,14 +20,6 @@ export default function HomeTemplate({ places }: MapProps) {
           title: 'My Trips',
           description:
             'A simple project to show in a map the places that I went and show more informations and photos when clicked.',
-          images: [
-            {
-              url: 'https://my-trips.willianjusten.com.br/img/cover.png',
-              width: 1280,
-              height: 720,
-              alt: 'My Trips'
-            }
-          ],
           site_name: 'My Trips'
         }}
       />
